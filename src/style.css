@@ -1,0 +1,25 @@
+.btns {
+  border-radius: 5px;
+  margin: 0.25rem;
+}
+
+#btn2 {
+  background-color: red;
+}
+
+.map {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.typo1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icons {
+  display: flex;
+  justify-content: end;
+}
